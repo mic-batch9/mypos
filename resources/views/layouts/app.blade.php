@@ -67,6 +67,13 @@
                                 </div>
                             </li>
                         @endguest
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ asset('test') }}">
+                                Test
+                            </a>
+                        </li>
+
                     </ul>
                 </div>
             </div>
